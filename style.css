@@ -1,0 +1,157 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+.bg{
+    color: aliceblue;
+    background-image: linear-gradient(rgb(3, 2, 44),rgb(46, 1, 31));
+}
+.name{
+    font-size: 90px;
+    background: -webkit-linear-gradient(rgb(158, 20, 105),rgb(201, 219, 209));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.name-p{
+    font-size: 25px;
+}
+.name-img{
+    height: 550px;
+    width: 550px;
+    /* margin: 20px; */
+}
+.name-img:hover{
+    scale: 1.05;
+}
+.name-button{
+    padding: 7px;
+    width: 130px;
+    border-width: 0px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: 500;
+    background-image: linear-gradient(rgb(87, 77, 197),rgb(145, 77, 197));
+}
+.name-button:hover{
+    scale: 1.3;
+    background-color: aliceblue;
+    border: solid rgb(87, 77, 197);
+    background-image: none;
+    color: blueviolet;
+}
+.about-bg{
+    background-color: rgba(0, 0, 0, 0.518);
+    padding: 20px;
+}
+.about-img{
+    margin: 20px;
+    height: 400px;
+    width: 500px;
+}
+.about-bg2{
+    background-color: rgba(0, 0, 0, 0.792);
+    padding: 20px;
+}
+.about-bg2:hover{
+    scale: 1.05;
+    background-color: rgba(245, 246, 248, 0.902);
+    color: darkblue;
+}
+.logo{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background-color: rgba(240, 232, 240, 0.53);
+    border-radius: 60px;
+    padding: 20px;
+}
+.logo:hover{
+    scale: 1.1;
+}
+.e-logo{
+    height: 150px;
+    width: 150px;
+}
+.e-logo1{
+    margin-top: 12px;
+    height: 130px;
+    width: 120px;
+}
+.e-logo1:hover{
+    scale: 1.2;
+}
+.e-logo:hover{
+    scale: 1.3;
+}
+.experience-img{
+    height: 200px;
+    width: 250px;
+    padding: 10px 10px 10px 10px;
+}
+.heading{
+    font-family: roboto;
+    font-size: 70px;
+}
+.bg-experience{
+    background-color: rgba(240, 248, 255, 0.525);
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    margin: 10px;
+}
+.bg-experience:hover{
+    scale: 1.09;
+    background-color: rgb(246, 245, 246);
+    border: solid  rgb(128, 25, 99);
+}
+.bg-p{
+    font-size:20px;
+    color: rgb(101, 7, 81);
+}
+
+.experience-img:hover{
+    scale: 1.05;
+}
+.experience-p{
+    color: rgb(11, 8, 98);
+    margin: 20px;
+    font-size: 35px;
+}
+.experience-button{
+    margin: 10px;
+    background-color: rgb(0, 110, 255);
+    padding: 5px;
+    width: 100px;
+    border:solid;
+    color: aliceblue;
+    border-width: 1px;
+    border-radius: 10px;
+    border-color: aliceblue;
+    font-size: 15px;
+}
+.experience-button:hover{
+    scale: 1.2;
+    background-color: aliceblue;
+    color:rgb(0, 110, 255) ;
+    border: solid rgb(0, 110, 255);
+}
+.contact-us-bg{
+    background-color: rgb(1, 1, 29);
+}
+.icon{
+    font-size: 30px;
+}
+.icon:hover{
+    font-size: 35px;
+}
+.nav:hover{
+    scale: 1.2;
+}
+.nav1{
+    margin: 20px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.nav1:hover{
+    scale:1.2;
+    color: red;
+    font-style: underline;
+}
